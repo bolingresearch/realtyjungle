@@ -1,0 +1,3 @@
+[submodule "wp-content/themes/rp_agent_default"]
+	path = wp-content/themes/rp_agent_default
+	url = git@github.com:bolingresearch/rp_agent_default.git
